@@ -1,5 +1,6 @@
 # calculator
-#Conversion DECIMAL to BINARY OCTAL HEXADECIMAL AND VICE-VERSA
+# Conversion DECIMAL to BINARY OCTAL HEXADECIMAL AND VICE-VERSA
+# pyhton code
 
 
 decimal=int(input("ENTER THE NUMBER...  "))
